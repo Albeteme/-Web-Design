@@ -4,13 +4,18 @@ Web Visualization Dashboard of weather in more that 500 cities at different lati
 
 https://albeteme.github.io/-Web-Design/
 
+![image](https://user-images.githubusercontent.com/75787486/122659939-de29d280-d14a-11eb-8e3e-186f06329cbb.png)
 
 # Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+![image](https://user-images.githubusercontent.com/75787486/122659943-e41fb380-d14a-11eb-8727-dc2d3c8b86c0.png)
 
 # Website Requirements
-For reference, see the "Screenshots" section below.
+![image](https://user-images.githubusercontent.com/75787486/122659950-f39efc80-d14a-11eb-8640-bf45552ab52f.png)
+![image](https://user-images.githubusercontent.com/75787486/122659955-fb5ea100-d14a-11eb-833f-da52f290149f.png)
+
+
 The website must consist of 7 pages total, including:
 A landing page containing:
      - An explanation of the project.
